@@ -62,6 +62,5 @@ ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 Les1ie
 
-2020-4-5 23:56:52
 
 
